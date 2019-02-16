@@ -1,0 +1,27 @@
+Introduction to Machine Learning  > Comprehension Check: Introduction to Machine Learning
+Q1
+"Turbochamp" was one of the first algorithms written by famed British computer scientist, mathematician and crypto-analyst Alan Turing in the late 1940s. The artificial intelligence program was based on programmable rules derived from theory or first principles and could 'think' two moves ahead.
+True or False: A key feature of machine learning is that the algorithms are built on data.
+True
+
+Q2
+True or False: In machine learning, we build algorithms that take feature values (X) and train a model using known outcomes (Y) that is then used to predict outcomes when presented with features without known outcomes.
+True
+
+Basics of Evaluating Machine Learning Algorithms  > Comprehension Check: Basics of Evaluating Machine Learning Algorithms
+Q1
+For each of the following, indicate whether the outcome is continuous or categorical.
+Digit reader = categorical
+Movie recommendation ratings = continuous
+Spam filter = categorical
+Number of hospitalizations = continuous
+Siri = categorical
+
+Q2
+How many features are available to us for prediction in the mnist digits dataset?
+784
+
+Q3
+In the digit reader example, the outcomes are stored here: y <- mnist$train$labels.
+Do the following operations have a practical meaning?
+Yes, because 9 + 2 = 11 and 9 > 2.
